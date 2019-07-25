@@ -7,6 +7,7 @@
 * https://www.youtube.com/watch?v=DLX62G4lc44
 
 ## Inspiration
+* https://www.womenwhocode.com/la
 * https://dev.to/
 * https://tympanus.net/codrops/
 * https://flaviocopes.com/
