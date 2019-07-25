@@ -8,6 +8,7 @@
 * https://www.youtube.com/watch?v=DLX62G4lc44
 
 ## Inspiration
+* https://www.meetup.com/Women-Who-Code-LA/events/263267947/
 * https://www.womenwhocode.com/la
 * https://dev.to/
 * https://tympanus.net/codrops/
