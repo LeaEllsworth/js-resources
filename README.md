@@ -1,6 +1,7 @@
 # js-resources
 
-## Mozilla Links
+## Mozilla Links (HTML/CSS/JS Lessons/Deep Dives)
+* https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/A_first_splash
 
 ## Youtube Links
 
