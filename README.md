@@ -14,4 +14,4 @@
 ## Project Inspiration
 * [Awwwards](https://www.awwwards.com/)
 * [JavaScript Shopping Cart](https://www.youtube.com/watch?v=90PgFUPIybY)
-* [React Recipe App](https://www.youtube.com/watch?v=U9T6YkEDkMo
+* [React Recipe App](https://www.youtube.com/watch?v=U9T6YkEDkMo)
