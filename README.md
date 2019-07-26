@@ -1,16 +1,17 @@
 # js-resources
 
-## Mozilla Links (HTML/CSS/JS Lessons/Deep Dives)
-* https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/A_first_splash
+## Lessons/Deep Dives (HTML/CSS/JS)
+* [Intro to JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/A_first_splash)
+* [React.js Beginner's Course](https://www.youtube.com/watch?v=DLX62G4lc44)
 
-## Youtube Links
+## Communities and Blogs
+* [Women Who Code LA Meetup](https://www.meetup.com/Women-Who-Code-LA)
+* [Women Who Code Los Angeles](https://www.womenwhocode.com/la)
+* [DEV Community](https://dev.to/)
+* [Codrops](https://tympanus.net/codrops/)
+* [Flaviocopes](https://flaviocopes.com/)
 
-* https://www.youtube.com/watch?v=DLX62G4lc44
-
-## Inspiration
-* https://www.meetup.com/Women-Who-Code-LA/events/263267947/
-* https://www.womenwhocode.com/la
-* https://dev.to/
-* https://tympanus.net/codrops/
-* https://flaviocopes.com/
-* https://www.awwwards.com/
+## Project Inspiration
+* [Awwwards](https://www.awwwards.com/)
+* [JavaScript Shopping Cart](https://www.youtube.com/watch?v=90PgFUPIybY)
+* [React Recipe App](https://www.youtube.com/watch?v=U9T6YkEDkMo
