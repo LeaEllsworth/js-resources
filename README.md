@@ -1,6 +1,7 @@
 # js-resources
 
 ## Lessons/Deep Dives (HTML/CSS/JS)
+* https://learn.freecodecamp.org/
 * [Intro to JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/A_first_splash)
 * [React.js Beginner's Course](https://www.youtube.com/watch?v=DLX62G4lc44)
 
